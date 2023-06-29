@@ -9,7 +9,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
     ```sh 
-    git clone <repository_url>
+    git clone https://github.com/Shivam-Samant/swagger-laravel-integration.git
     ```
 
 1. Navigate to the project directory:
